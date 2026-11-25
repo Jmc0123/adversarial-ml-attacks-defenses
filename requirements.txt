@@ -1,0 +1,5 @@
+torch>=2.0
+torchvision>=0.15
+numpy
+scipy
+cleverhans>=4.0  # Carlini-Wagner L2, used as the grey-box warm start

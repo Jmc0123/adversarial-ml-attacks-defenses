@@ -1,0 +1,24 @@
+# datasets and experiment outputs
+data/
+out/
+
+# model weights
+*.pt
+*.pth
+*.tar
+*.ckpt
+*.npy
+*.npz
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
